@@ -1,2 +1,2 @@
 # autogen-apps
-AutoGen Applications
+Learning to implement AutoGen applications.
